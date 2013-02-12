@@ -1,4 +1,4 @@
 mod_knockout
 ============
 
-Knockout JS library for zotonic.
+Knockout JS module for zotonic.
